@@ -1,0 +1,1 @@
+# Fotografas-photography-template
