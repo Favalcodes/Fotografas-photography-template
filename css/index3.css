@@ -591,7 +591,7 @@ ul.hours_links li::before,
 
 /* Beginning of banner */
 .section-banner {
-    background: url(img/Hero\ Image.svg) fixed no-repeat;
+    background: url(../img/Hero\ Image.svg) fixed no-repeat;
     -webkit-background-size: contain;
     background-size: cover;
     background-position: center center;
